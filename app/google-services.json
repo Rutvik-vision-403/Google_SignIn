@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453980952662",
+    "project_id": "codehub-sign-in",
+    "storage_bucket": "codehub-sign-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453980952662:android:f40a72c759749b5b0083f7",
+        "android_client_info": {
+          "package_name": "com.vision.infotech.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453980952662-7qt9pq9te24evl6v001ic427n4a4p8av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vision.infotech.googlesignin",
+            "certificate_hash": "5f66496b740c04dfe5d42ebaa14abc9b79fead53"
+          }
+        },
+        {
+          "client_id": "453980952662-cujubvnud4hd7eu9u25fpfhhjrimgial.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkD55AC3JXeGHSou4kch5SToHGTqihc58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453980952662-cujubvnud4hd7eu9u25fpfhhjrimgial.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
